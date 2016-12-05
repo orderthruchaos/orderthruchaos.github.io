@@ -1,0 +1,12 @@
+*.bak
+*~
+.*.sw?
+.DS_Store
+._*
+\#*.lyx\#
+\~$*.xlsx
+__MACOSX/
+
+_site
+.sass-cache
+.jekyll-metadata
